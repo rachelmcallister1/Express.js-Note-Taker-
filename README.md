@@ -8,4 +8,4 @@ This application uses the Express.js back end and saves and retrieves note data 
 Additionally, this application can delete notes from the JSON file by reading the notes that are in the ds.json file under the db and Develop folder. Notes with a given 'id' can be removed. 
 
 # Screenshot of Deployed Application
-![A screenshot of the Deployed Application](./Assets/Note-Taker-App.png)
+![A screenshot of the Deployed Application](./Assets/Note-Taker-App.png/)
